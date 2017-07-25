@@ -1,2 +1,7 @@
-# chapala-art-pic
-Cyclone Chapala over the Arabain Sea
+## Welcome to GitHub Pages
+
+![Cyclone Chapala](pics/cyclone_small.png)
+
+## Simulation
+
+## Visualization
