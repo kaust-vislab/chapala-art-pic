@@ -1,4 +1,3 @@
-## Cyclone Chapala over the Arabian Sea
 ![Cyclone Chapala](pics/cyclone_small.png)
 
 ## Background
@@ -14,6 +13,8 @@ For the numerical simulation on Shaheen II we used [WRF](http://www.wrf-model.or
 The simulation results are generated on a 1100 × 1000 × 34 regular grid with 138 time steps. Data size for each time step is about 3.1 GB. Therefore, the total size of the generated data set is roughly 428 GB. The simulation was performed in 3 hours using 640 cores on our newly established High Performance Computational Facility [Shaheen II](https://www.hpc.kaust.edu.sa/content/shaheen-ii)
 
 ## Visualization
+
+tbw
 
 ## References
 
