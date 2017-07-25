@@ -10,11 +10,11 @@ It affected as many as 1.1 million people, displacing more than 36,000. The trac
 
 For the numerical simulation we used [WRF](http://www.wrf-model.org) version 3.7.1. The implemented configuration is composed of two, two-way interactive nested domains with horizontal resolutions of 9 km and 3 km respectively. The vertical column is discretized into 34 vertical levels.
 
-The simulation results are generated on a 1100 × 1000 × 34 regular grid with 138 time steps. Data size for each time step is about 3.1 GB. Therefore, the total size of the generated data set is roughly 428 GB. The simulation was performed in 3 hours using 640 cores on our High Performance Computational Facility [Shaheen II](https://www.hpc.kaust.edu.sa/content/shaheen-ii)
+The simulation results are generated on a 1100 × 1000 × 34 regular grid with 138 time steps. Data size for each time step is about 3.1 GB. Therefore, the total size of the generated data set is roughly 428 GB. The simulation was performed in 3 hours using 640 cores on our High Performance Computational Facility [Shaheen II](https://www.hpc.kaust.edu.sa/content/shaheen-ii).
 
 ## Visualization
 
-the picture shows the cyclone at the last time step which corresponds to 11 Nov 2015, 5pm. The visualization was done with the [Avizo 3D Visualization Suite](http://www.fei.com/software/avizo3d). It is composed of several components:
+The picture shows the cyclone at the last time step which corresponds to 11 Nov 2015, 5pm. The visualization was done with the [Avizo 3D Visualization Suite](http://www.fei.com/software/avizo3d). It is composed of several components:
 
 - Particles have been advected through the wole time-dependent flow field describing the velocity of the cyclone. White and gray particles in the lower regions emphasize the eye of the cyclone, while red and yellow particles in the higher regions outline the upper spiral movement.
 
