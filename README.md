@@ -16,7 +16,7 @@ The simulation results are generated on a 1100 × 1000 × 34 regular grid with 1
 
 The picture shows the cyclone at the last time step which corresponds to 11 Nov 2015, 5pm. The visualization was done with the [Avizo 3D Visualization Suite](http://www.fei.com/software/avizo3d). It is composed of several components:
 
-- Particles have been advected through the wole time-dependent flow field describing the velocity of the cyclone. White and gray particles in the lower regions emphasize the eye of the cyclone, while red and yellow particles in the higher regions outline the upper spiral movement.
+- Particles have been advected through the whole time-dependent flow field describing the velocity of the cyclone. White and gray particles in the lower regions emphasize the eye of the cyclone, while red and yellow particles in the higher regions outline the upper spiral movement.
 
 - Critical points (that is, points where the flow field is zero) have been computed. They occur mainly in the eye of the cyclone. A red double-cone indicates an attracting node (a sink) whereas a blue double-cone indicates a repelling saddle node.
 
